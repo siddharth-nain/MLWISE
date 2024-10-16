@@ -1,0 +1,7 @@
+#day 1 done
+#basic knn model with 0.97 accuracy 
+#iris species data set
+
+
+
+#day 2
