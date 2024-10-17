@@ -7,3 +7,12 @@
 #day 2
 breast cancer model with 0.857 accuracy
 KNN used 
+
+
+#day 3
+KNR - 0.69 accuracy
+Linear Regression - Train - 0.95
+                    Test - 0.61
+Ridge Regression - Train - 0.885
+                   Test - 0.752
+
