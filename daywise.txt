@@ -5,3 +5,5 @@
 
 
 #day 2
+breast cancer model with 0.857 accuracy
+KNN used 
