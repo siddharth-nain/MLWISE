@@ -16,3 +16,7 @@ Linear Regression - Train - 0.95
 Ridge Regression - Train - 0.885
                    Test - 0.752
 
+
+#day 4
+Lasso - Ridge Alternative 
+Linear models for multiclass classification
