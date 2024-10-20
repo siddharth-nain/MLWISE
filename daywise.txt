@@ -20,3 +20,8 @@ Ridge Regression - Train - 0.885
 #day 4
 Lasso - Ridge Alternative 
 Linear models for multiclass classification
+
+
+#day 5
+L1 used for few features and model interpretation
+Linear models are fast to train and fast to predict
