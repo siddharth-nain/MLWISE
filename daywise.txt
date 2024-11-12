@@ -25,3 +25,10 @@ Linear models for multiclass classification
 #day 5
 L1 used for few features and model interpretation
 Linear models are fast to train and fast to predict
+
+
+#day 6
+Unsupervised learning
+-data transformation
+-scaling training
+-till pca 154
